@@ -4,8 +4,7 @@
   "description": "Real time chat App",
   "main": "server.js",
   "scripts": {
-    "test": "node server",
-    "dev": "nodemon server"
+    "test": "node server"
   },
   "author": "G.S.",
   "license": "MIT",
