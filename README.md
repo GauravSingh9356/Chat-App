@@ -18,8 +18,9 @@
 ![](Screenshot%20(46).png)
 
 <h3>How to use in local env</h3>
-<ul>Steps
+<ul>##Steps
   <li>Clone Repository</li> {By downloading zip or by command git clone https://github.com/GauravSingh9356/Chat-App.git}
   <li>npm install</li> {It installs all required dependencies mentioned in package.json file}
   <li>Ready!!</li>
   </ul>
+  
